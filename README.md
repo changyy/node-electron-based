@@ -6,8 +6,9 @@ build code:
 % git clone https://github.com/changyy/node-electron-based
 % cat env_nvm.sh
 source /opt/local/share/nvm/init-nvm.sh
-nvm use v16
+nvm use v20
 % source env_nvm.sh
+% npm install
 % npm run build
 ```
 
